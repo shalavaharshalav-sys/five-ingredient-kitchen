@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://shalavaharshalav-sys.github.io/five-ingredient-kitchen/sitemap.xml
